@@ -8,6 +8,12 @@
     "type": "git",
     "url": "https://github.com/harshalslimaye/matrixreloaded"
   },
+  "keywords": [
+		"matrix",
+		"dark",
+		"theme",
+		"color-theme"
+	],
   "engines": {
     "vscode": "^1.73.0"
   },
