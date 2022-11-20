@@ -4,6 +4,7 @@
   "description": "A Matrix styled theme for Visual Studio Code",
   "version": "1.0.0",
   "publisher": "harshallimaye",
+  "icon": "media/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/harshalslimaye/matrixreloaded"
