@@ -1,0 +1,22 @@
+{
+  "name": "matrix-reloaded",
+  "displayName": "Matrix Reloaded",
+  "description": "A Matrix styled theme for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "harshallimaye",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matrix Reloaded",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Matrix Reloaded-color-theme.json"
+      }
+    ]
+  }
+}
