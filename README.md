@@ -1,6 +1,6 @@
-# 💾  Matrix Reloded
+# 💾 Matrix Reloded
 
-> A ***Matrix*** styled theme for Visual Studio Code
+> A **_Matrix_** styled theme for Visual Studio Code
 
 ## Preview:
 
@@ -20,6 +20,4 @@ If you have suggestions, feel free to open an issue or a pull request.
 
 ## Author
 
-Authored By [Harshal S. Limaye](https://harshal.dev)
-
-
+Authored By [Harshal S. Limaye](https://www.linkedin.com/in/harshal-limaye/)
